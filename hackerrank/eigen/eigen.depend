@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522166070 source:c:\programs\hackerrank\eigen\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<string.h>
+	<cmath>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1520151502 source:c:\programs\hackerrank\circular array rotation\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<stack>
+

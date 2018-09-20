@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530369168 source:c:\programs\codechef\counting pretty numbers\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

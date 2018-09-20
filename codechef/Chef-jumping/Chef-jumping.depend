@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526314110 source:c:\programs\codechef\chef-jumping\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524729739 source:c:\programs\codechef\voters\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

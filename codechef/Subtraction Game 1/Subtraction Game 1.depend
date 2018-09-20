@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525584624 source:c:\programs\codechef\subtraction game 1\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

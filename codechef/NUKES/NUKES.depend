@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524724463 source:c:\programs\codechef\nukes\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<math.h>
+

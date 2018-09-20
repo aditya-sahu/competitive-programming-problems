@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1527865792 source:c:\programs\naive chef\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<iomanip>
+
